@@ -1,0 +1,22 @@
+{
+  "name": "algo_as_a_service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonderOfU3/algo_as_a_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonderOfU3/algo_as_a_service/issues"
+  },
+  "homepage": "https://github.com/WonderOfU3/algo_as_a_service#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
